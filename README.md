@@ -7,6 +7,7 @@ Wavelet Transform tool were used to extract features from images.
 
 Problem to solve : To Predict whether the note is genuine or not
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #  Iris Flower Dataset
 Iris flower data set used for multi-class classification.
