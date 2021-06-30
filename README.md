@@ -24,4 +24,11 @@ The dataset contains a set of 150 records under 5 attributes - Petal Length, Pet
 ### Acknowledgements
 This dataset is free and is publicly available at the UCI Machine Learning Repository
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Handwritten Digit Recognition(MNIST)
+
+## Introduction
+MNIST ("Modified National Institute of Standards and Technology") is the de facto “Hello World” dataset of computer vision. Since its release in 1999, this classic dataset of handwritten images has served as the basis for benchmarking classification algorithms. As new machine learning techniques emerge, MNIST remains a reliable resource for researchers and learners alike.
+
+In this competition, we aim to correctly identify digits from a dataset of tens of thousands of handwritten images. Kaggle has curated a set of tutorial-style kernels which cover everything from regression to neural networks. They hope to encourage us to experiment with different algorithms to learn first-hand what works well and how techniques compare.
